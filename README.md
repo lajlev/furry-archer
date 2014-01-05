@@ -5,7 +5,7 @@ A static website for summerhouse websites service
 
 ## Compile with harpjs
 ```
-$ harp compile source www
+$ harp compile source folder to www folder
 ```
 
 ## Push www folder with git-ftp
