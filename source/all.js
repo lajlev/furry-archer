@@ -3,5 +3,3 @@ function gen_mail_to_link(lhs,rhs,subject) {
   document.write(":" + lhs + "@");
   document.write(rhs + "?subject=" + subject + "\">" + lhs + "@" + rhs + "<\/A>");
 }
-
-alert('hi daniel');
